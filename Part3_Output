@@ -1,0 +1,11 @@
+Number of positive training instances: 12500
+Number of negative training instances: 12500
+Number of positive test instances: 12500
+Number of negative test instances: 12500
+Vocabulary (training set): 92603
+Alpha:  10.0
+Confusion Matrix:  [[9992, 2508], [1430, 11070]]
+Accuracy:  0.84248
+Precision:  0.8748030117317458
+Recall:  0.79936
+Time Taken:  2479.703071832657
